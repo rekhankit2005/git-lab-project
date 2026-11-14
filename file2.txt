@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 second update for master
+=======
+2nd update
+>>>>>>> branch-1
